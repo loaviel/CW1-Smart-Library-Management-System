@@ -1,0 +1,3 @@
+0 loa admin ok@gmail.com k ADMIN
+1 vie member k@gmail.com kris MEMBER
+2 lib libra lib@gmail.com lib LIBRARIAN
